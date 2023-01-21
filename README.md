@@ -1,6 +1,8 @@
 # My_Radar
 Epitech Project
 
+(Need Csflm Clib)
+
 The goal is to create a program able to detect collisions in an optimized way.
 
 [build] make
